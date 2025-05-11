@@ -36,6 +36,8 @@ ENV/
 
 # Model files
 *.pkl
+!insurance_model.pkl
+!insurance_preprocessor.pkl
 
 # OS
 .DS_Store
